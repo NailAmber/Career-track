@@ -11,8 +11,11 @@
 
 ## Exercise 02
 ### Сдача ассесмента по SCRUM
-- matthewr: ![matthewr](/CT04.ID_886866-Team_TL_nailambe/src/images/matthewr.jpg)
+- matthewr:  
+  ![matthewr](/CT04.ID_886866-Team_TL_nailambe/src/images/matthewr.jpg)  
 
-- roddjeff: ![roddjeff](/CT04.ID_886866-Team_TL_nailambe/src/images/roddjeff.jpg)
+- roddjeff:  
+  ![roddjeff](/CT04.ID_886866-Team_TL_nailambe/src/images/roddjeff.jpg)  
 
-- nailambe: ![nailambe](/CT04.ID_886866-Team_TL_nailambe/src/images/nailambe.JPG)
+- nailambe:  
+  ![nailambe](/CT04.ID_886866-Team_TL_nailambe/src/images/nailambe.JPG)  
